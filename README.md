@@ -1,5 +1,5 @@
 # recommendations_cellphones
-Content based recommendations algorthim for phones in online store
+Content-based recommendations algorithm for phones in online store
 
 # Link on Kaggle:
 

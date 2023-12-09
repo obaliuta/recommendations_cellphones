@@ -1,4 +1,4 @@
-# recommendations_celphones
+# recommendations_cellphones
 Content based recommendations algorthim for phones in online store
 
 # Link on Kaggle:

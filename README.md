@@ -1,5 +1,5 @@
 # recommendations_celphones
-Recommendations algorthim for phones in online store
+Content based recommendations algorthim for phones in online store
 
 # Link on Kaggle:
 
